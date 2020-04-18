@@ -2,11 +2,13 @@
 <resources>
 <string name="app_name">MyApplication2</string>
 <string-array name="Monthly1">
+    <item>Monthly</item>
     <item>Quarterly</item>
     <item>Half Yearly</item>
     <item>Annually</item>
 </string-array>
 <string-array name="Monthly2">
+     <item>Monthly</item>
     <item>Quarterly</item>
     <item>Half Yearly</item>
     <item>Annually</item>
